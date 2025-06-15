@@ -196,6 +196,8 @@ This project successfully demonstrated how machine learning can enhance insuranc
 
 This end-to-end project provides a strong foundation for deploying real-world fraud analytics and could be extended with:
 - Real-time scoring of incoming claims
-- D
+- Deep learning-based anomaly detection
+- Integration into insurer claim workflows
+
 
 
